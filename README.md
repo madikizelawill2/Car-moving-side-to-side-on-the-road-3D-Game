@@ -2,7 +2,7 @@
 
 Using Unity software, created a basic game.
 Only focused on player controller
-the player is able to accelare the vehicle and move it lef to right 
+the player is able to accelarate the vehicle and move it lef to right 
 Avoiding obstacles
 
 Here is an image of the game.
